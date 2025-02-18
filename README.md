@@ -1,6 +1,6 @@
 Girilen metindeki karakter sayısını anlık olarak hesaplayan basit ve kullanışlı bir araç.
 
-
+A simple and useful tool that instantly calculates the number of characters in the entered text.
 
 
 Bu proje, kullanıcıların belirlediği bir etkinlik tarihine ne kadar süre kaldığını hesaplayan basit bir uygulamadır. Kullanıcı, etkinlik tarihini girer ve sistem otomatik olarak gün, saat, dakika ve saniye cinsinden geri sayımı başlatır.
